@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarbonTest</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="no_content">No Content</string>
+    <string name="no_movie">No Movie</string>
+    <string name="no_more_record">No more record</string>
+    <string name="icon">Icon</string>
+    <string name="rating">8.5</string>
+    <string name="overview">Overview</string>
+    <string name="actors">Actors</string>
+    <string name="view_all">view all</string>
+    <string name="back_button">Back Button</string>
+</resources>
